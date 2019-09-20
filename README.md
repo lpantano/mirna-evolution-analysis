@@ -3,7 +3,7 @@ some basic script to make multi-alignment and parse the changes
 
 ## Installation
 
-Having conda and the channels properly configures as in :
+Having conda and the channels properly configures as in :https://bioconda.github.io/user/install.html#set-up-channels
 
 ```
 conda install mafft
