@@ -1,4 +1,5 @@
 # mirna-evolution-analysis
+
 some basic script to make multi-alignment and parse the changes
 
 ## Installation
@@ -11,6 +12,10 @@ conda install r-tidyverse
 conda install r-ggthemes
 conda install r-ggplot2
 ```
+
+## Method
+
+The important tool here is: https://mafft.cbrc.jp/alignment/software/, it has been used for this goal in the past, so maybe it is a good option.
 
 ## Usage
 
